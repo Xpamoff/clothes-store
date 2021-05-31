@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e63787f-af23-4a92-bcd3-53bf13eee2bf" name="Default Changelist" comment="" />
+    <list default="true" id="0e63787f-af23-4a92-bcd3-53bf13eee2bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,11 @@
       <option name="presentableId" value="Default" />
       <updated>1622463987603</updated>
       <workItem from="1622463989012" duration="6000" />
+      <workItem from="1622467493180" duration="208000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
